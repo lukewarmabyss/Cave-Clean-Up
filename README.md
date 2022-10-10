@@ -7,17 +7,12 @@ Tired of caves now looking ugly? Tired of half your inventory being filled up wi
 Features:
 
 Removes Diorite from world generation
-
 Removes Andesite from world generation
-
 Removes Granite from world generation
-
 Removes Tuff from world generation
-
 Replaces Deepslate with Stone
  
 Adds crafting recipe for Cobbled Deepslate
-
 Adds crafting recipe for Tuff
  
 
